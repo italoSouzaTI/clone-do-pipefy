@@ -1,5 +1,5 @@
 # Clone do pipefy
-###### Com iniciativa de mostra uma nova lib (DND) com as novas tags do hooks do REACTJS, a [RocketSeat](https://github.com/Rocketseat), 
+###### Com iniciativa de mostra uma nova lib (react-dnd) com as novas tags do hooks do REACTJS, a [RocketSeat](https://github.com/Rocketseat), 
 ###### junto com CTO [DIEGO FERNANDES](https://github.com/diego3g), iniciaram o projeto citado.
 link do projeto:
 > [Recriando Pipefy do zero (com drag n' drop) | Diego Fernandes](https://www.youtube.com/watch?v=awRtgpRsdTQ)
